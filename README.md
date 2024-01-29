@@ -1,6 +1,6 @@
 # BioRT-HBV_W9_20162017
 
-Base case input and output files for HBV-light and BioRT models used in Stewart et al., (in prep.).
+Base case input and output files for HBV-light and BioRT models used in Stewart et al., (in rev.).
 
 HBV_Files directory includes "Data" and "Results" directories for simulation of hydrology in HBV-light. BioRT_Files directory includes "input" and "output" directories for simulation of biogeochemical reactions and transport processes in BioRT.
 
